@@ -1,0 +1,26 @@
+.custom-card{
+    min-height: 512px;
+    min-width: 350px;
+    background-color: #ffffff;
+    
+}
+#custom-card-header, #custom-card-footer{
+    max-height: 25%;
+    font-size: 110px;
+    line-height: 120px;
+}
+#custom-card-body{
+    min-height: 50%;
+    font-size: 180px;
+
+}
+body{
+    background-color: #0A660E;
+}
+.heart-diamond{
+    color: red;
+}
+
+#custom-card-footer{
+     transform: rotate(180deg);
+ }
